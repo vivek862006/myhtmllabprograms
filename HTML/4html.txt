@@ -1,0 +1,12 @@
+<html>
+<head>
+	<title>External css</title>
+	<link rel="stylesheet" type="text/css" href="apple.css">
+</head>
+<body>
+	<h1>welcome</h1><br>
+	<b>To</b><br>
+	<h1>Aditya</h1><br>
+	<b>university</b>
+</body>
+</html>
